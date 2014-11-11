@@ -32,6 +32,8 @@ PFObject.saveAllInBackground([post1, post2, PFUser.currentUser()], block: { (suc
 })
 ```
 
+See `ViewController.swift` file for implementation. You can run this project in simulator to check each variant.
+
 Using Parse SDK 1.5.0
 
 What am I doing wrong?
