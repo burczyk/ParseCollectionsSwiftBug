@@ -1,4 +1,4 @@
-###Probable bug in Swift and Parse-iOS-SDK 1.5.0
+### Probable bug in Swift and Parse-iOS-SDK 1.5.0
 I have a Swift project where I pin some data to `PFUser` object. It is an array of `PFObject` subclasses:
 
 ```swift
